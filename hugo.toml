@@ -1,7 +1,7 @@
 baseURL = 'https://detafti.ir/'
 languageCode = 'en-us'
 title = 'MDT - Personal site'
-theme = "ananke"
+theme = "PaperMod"
 [[menu.main]]
   name = "Resume"
   url = "/resume/"
