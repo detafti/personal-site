@@ -1,7 +1,7 @@
 baseURL = 'https://detafti.ir/'
 languageCode = 'en-us'
 title = 'MDT - Personal site'
-theme = "book"
+theme = "ananke"
 [[menu.main]]
   name = "Resume"
   url = "/resume/"
@@ -11,8 +11,3 @@ theme = "book"
   url = "/blog/"
   weight = 2
 
-[params]
-  # Enable or disable features
-  BookMenuBundle = "/menu"  # Path to menu bundle
-  BookSearch = true         # Enable search
-  BookToC = true            # Enable table of contents
