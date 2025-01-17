@@ -10,3 +10,9 @@ theme = "book"
   name = "Blog"
   url = "/blog/"
   weight = 2
+
+[params]
+  # Enable or disable features
+  BookMenuBundle = "/menu"  # Path to menu bundle
+  BookSearch = true         # Enable search
+  BookToC = true            # Enable table of contents
