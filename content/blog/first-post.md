@@ -16,8 +16,9 @@ This is the content of my first blog post. I’m excited to share my thoughts an
 You can listen to the audio version of this post using the player above. Enjoy!
 [Download Audio](/audio/Scrum.mp3)
 
+{{< rawhtml >}}
 <div id="music-player">
-  <audio id="audio" src="/audio/my-audio.mp3"></audio>
+  <audio id="audio" src="/audio/Scrum.mp3"></audio>
   <div class="controls">
     <button id="play-pause">Play</button>
     <input type="range" id="seek-bar" value="0">
@@ -117,4 +118,4 @@ You can listen to the audio version of this post using the player above. Enjoy!
     return `${minutes}:${secs < 10 ? '0' : ''}${secs}`;
   }
 </script>
-
+{{< /rawhtml >}}
