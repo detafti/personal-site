@@ -4,7 +4,9 @@ draft = false
 title = 'About me'
 +++
 
-<img src="static/images/profile.jpg" alt="Profile Picture" class="profile-picture">
+{{< rawhtml >}}
+<img src="/images/profile.jpg" alt="Profile Picture" class="profile-picture">
+{{< /rawhtml >}}
 
 Hello! I'm Mohammad Reza Dehghani Tafti, a Senior Java developer with over 8 years of experience coding back-end layer and infrastructure of enterprise applications, as well a leading and advising junior and mid-level developers. Contributed to design and development of more than 11 enterprise applications, from requirement management to production delivery and maintenance plans.
 

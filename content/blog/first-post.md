@@ -11,6 +11,8 @@ title = 'First Post'
 
 ## Welcome to My First Post!
 
+[book](/images/scrum.jpg)
+
 This is the content of my first blog post. I’m excited to share my thoughts and ideas with you. 
 
 You can listen to the audio version of this post using the player above. Enjoy!
