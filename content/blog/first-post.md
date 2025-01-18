@@ -16,9 +16,9 @@ title = 'First Post'
 {{< /rawhtml >}}
 
 This is the content of my first blog post. I’m excited to share my thoughts and ideas with you. 
+Hello and welcome to my first blog post! I’m thrilled to share my thoughts and experiences with you. In this post, I’ll be talking about my journey exploring the book "The Professional Scrum Team" and how I used NotebookLM to enhance my learning experience.
 
-You can listen to the audio version of this post using the player above. Enjoy!
-[Download Audio](/audio/Scrum.mp3)
+If you’re curious to hear what it sounds like, I’ve shared the podcast below. You can also [Download it here](/audio/Scrum.mp3).
 
 {{< rawhtml >}}
 <div id="music-player">
