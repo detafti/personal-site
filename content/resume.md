@@ -1,6 +1,6 @@
 +++
 date = '2025-01-17T16:17:19+03:30'
-draft = false 
+draft = false
 title = 'About me'
 +++
 
@@ -31,5 +31,4 @@ Hello! I'm Mohammad Reza Dehghani Tafti, a Senior Java developer with over 8 yea
     border: 3px solid #007bff; /* Optional: Adds a border */
   }
 </style>
-
 
