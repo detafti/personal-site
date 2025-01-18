@@ -11,7 +11,9 @@ title = 'First Post'
 
 ## Welcome to My First Post!
 
-[book](/images/scrum.jpg)
+{{< rawhtml >}}
+<img src="/images/scrum.jpg" alt="Scrum book Picture" class="profile-picture">
+{{< /rawhtml >}}
 
 This is the content of my first blog post. I’m excited to share my thoughts and ideas with you. 
 
