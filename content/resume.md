@@ -22,8 +22,8 @@ Hello! I'm Mohammad Reza Dehghani Tafti, a Senior Java developer with over 8 yea
 
 <style>
   .profile-picture {
-    width: 150px; /* Adjust the size as needed */
-    height: 150px; /* Adjust the size as needed */
+    width: 1050px; /* Adjust the size as needed */
+    height: 1050px; /* Adjust the size as needed */
     border-radius: 50%; /* Makes the image circular */
     object-fit: cover; /* Ensures the image fits within the circle */
     display: block; /* Centers the image */
