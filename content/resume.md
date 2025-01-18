@@ -19,3 +19,18 @@ Hello! I'm Mohammad Reza Dehghani Tafti, a Senior Java developer with over 8 yea
 - **Programming Languages**: [e.g., Java, JavaScript, Python]
 - **Frameworks & Tools**: [e.g., Spring Boot, Docker, Kubernetes]
 - **Other Skills**: [e.g., Project Management, Agile Development]
+
+<style>
+  .profile-picture {
+    width: 150px; /* Adjust the size as needed */
+    height: 150px; /* Adjust the size as needed */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image fits within the circle */
+    display: block; /* Centers the image */
+    margin: 0 auto; /* Centers the image */
+    border: 3px solid #007bff; /* Optional: Adds a border */
+  }
+</style>
+
+<img src="/images/profile.jpg" alt="Profile Picture" class="profile-picture">
+
