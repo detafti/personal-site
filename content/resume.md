@@ -4,7 +4,7 @@ draft = false
 title = 'About me'
 +++
 
-![Profile Picture](/images/profile.jpg)
+<img src="/images/profile.jpg" alt="Profile Picture" class="profile-picture">
 
 ## About Me
 Hello! I'm Mohammad Reza Dehghani Tafti, a Senior Java developer with over 8 years of experience coding back-end layer and infrastructure of enterprise applications, as well a leading and advising junior and mid-level developers. Contributed to design and development of more than 11 enterprise applications, from requirement management to production delivery and maintenance plans.
@@ -16,9 +16,9 @@ Hello! I'm Mohammad Reza Dehghani Tafti, a Senior Java developer with over 8 yea
 - **GitHub**: [github.com/dehghani735](https://github.com/dehghani735)
 
 ## Skills
-- **Programming Languages**: [e.g., Java, JavaScript, Python]
-- **Frameworks & Tools**: [e.g., Spring Boot, Docker, Kubernetes]
-- **Other Skills**: [e.g., Project Management, Agile Development]
+- **Programming Languages**: [Java, JavaScript, Python]
+- **Frameworks & Tools**: [Spring Boot, Docker, Kubernetes]
+- **Other Skills**: [Project Management, Agile Development]
 
 <style>
   .profile-picture {
@@ -32,5 +32,4 @@ Hello! I'm Mohammad Reza Dehghani Tafti, a Senior Java developer with over 8 yea
   }
 </style>
 
-<img src="/images/profile.jpg" alt="Profile Picture" class="profile-picture">
 
