@@ -2,6 +2,20 @@ baseURL = 'https://detafti.ir/'
 languageCode = 'en-us'
 title = 'MDT - Personal site'
 theme = "ananke"
+
+[params.giscus]
+  enable = true 
+  repo = "dehghani735/personal-site"
+  repo_id = "R_kgDONrrnqg"
+  category = "Announcements"
+  category_id = "DIC_kwDONrrnqs4C_9My"
+  mapping = "pathname"
+  strict = "0"
+  reactions_enabled = "1"
+  input_position = "bottom"
+  theme = "preferred_color_scheme"
+  lang = "en"
+
 [[menu.main]]
   name = "About me"
   url = "/resume/"
@@ -10,4 +24,3 @@ theme = "ananke"
   name = "Blog"
   url = "/blog/"
   weight = 2
-
