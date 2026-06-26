@@ -5,7 +5,7 @@ theme = "ananke"
 
 [params.giscus]
   enable = true 
-  repo = "dehghani735/personal-site"
+  repo = "detafti/personal-site"
   repo_id = "R_kgDONrrnqg"
   category = "Announcements"
   category_id = "DIC_kwDONrrnqs4C_9My"
